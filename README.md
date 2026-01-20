@@ -20,7 +20,6 @@ Je m'intéresse particulièrement au développement d'applications en générale
 - IDE : VScode
 - OS : windows, linux (base)
 - git
-- docker (notions)
 
 ---
 
