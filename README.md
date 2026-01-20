@@ -43,7 +43,7 @@ Je m'intéresse particulièrement au développement d'applications en générale
 ---
 ### A propos de moi : 
 
-- J'aime lire les manga
+- J'aime lire les mangas
 - Jouer au jeux vidéos
 - faire du sport particulièrement le volley
 
